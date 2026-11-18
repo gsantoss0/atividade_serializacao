@@ -1,0 +1,6 @@
+NumeroLote;TipoLiga;PesoTotal;TemperaturaFundicao;StatusQualidade
+101;Aço Inox 304;1500.50;1450.2;Aprovado
+102;Titânio Grau 5;820.00;1660.8;Aprovado
+103;Aço Carbono 1045;2100.75;1510.0;Em Análise
+104;Liga de Níquel;950.30;1485.5;Aprovado
+105;Aço Ferramenta D2;1230.10;1420.4;Reprovado

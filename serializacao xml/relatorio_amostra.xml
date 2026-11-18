@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelatorioAnalise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <amostra>
+    <idAmostra>BIO-2026-8849-X</idAmostra>
+    <tipoMaterial>Tecido arterial</tipoMaterial>
+    <dataColeta>0001-01-01T00:00:00</dataColeta>
+  </amostra>
+  <responsavel>
+    <nomeCientista>Dr. Nero</nomeCientista>
+    <registroProfissional>12345</registroProfissional>
+  </responsavel>
+  <resultados>
+    <componente>Proteína X (Concentração: 14.2 mg/mL)</componente>
+    <componente>Enzima Y (Atividade Catalítica Normal)</componente>
+    <componente>Marcador Genético BRCA1-Mut</componente>
+    <componente>Sequência Viral Negativa</componente>
+  </resultados>
+</RelatorioAnalise>
