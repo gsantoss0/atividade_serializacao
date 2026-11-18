@@ -19,10 +19,8 @@ public class Program{
 
     using (StreamWriter writer = new StreamWriter(caminhoArquivo))
     {
-        // 1. Escreve o cabeçalho
         writer.WriteLine("NumeroLote;TipoLiga;PesoTotal;TemperaturaFundicao;StatusQualidade");
 
-        // 2. Escreve cada objeto como uma linha
         foreach (var lote in lotes)
         {
             string linha = string.Join(";",
@@ -40,7 +38,6 @@ public class Program{
 
     List<LoteProducao> lotesLidos = new List<LoteProducao>();
 
-    // Lê todas as linhas do arquivo, ignorando a primeira (cabeçalho) com Skip(1)
     string[] linhas = File.ReadAllLines(caminhoArquivo);
 
     foreach (string linha in linhas.Skip(1))
@@ -61,7 +58,6 @@ public class Program{
         lotesLidos.Add(lote);
     }
 
-    // Exibindo os dados lidos e calculando a média com LINQ
     Console.WriteLine("--- Lotes Lidos do CSV ---");
     foreach (var item in lotesLidos)
     {
