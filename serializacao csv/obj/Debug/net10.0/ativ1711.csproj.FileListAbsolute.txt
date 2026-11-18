@@ -1,0 +1,15 @@
+C:\ativ1711\obj\Debug\net10.0\ativ1711.GeneratedMSBuildEditorConfig.editorconfig
+C:\ativ1711\obj\Debug\net10.0\ativ1711.AssemblyInfoInputs.cache
+C:\ativ1711\obj\Debug\net10.0\ativ1711.AssemblyInfo.cs
+C:\ativ1711\obj\Debug\net10.0\ativ1711.csproj.CoreCompileInputs.cache
+C:\ativ1711\obj\Debug\net10.0\ativ1711.sourcelink.json
+C:\ativ1711\bin\Debug\net10.0\ativ1711.exe
+C:\ativ1711\bin\Debug\net10.0\ativ1711.deps.json
+C:\ativ1711\bin\Debug\net10.0\ativ1711.runtimeconfig.json
+C:\ativ1711\bin\Debug\net10.0\ativ1711.dll
+C:\ativ1711\bin\Debug\net10.0\ativ1711.pdb
+C:\ativ1711\obj\Debug\net10.0\ativ1711.dll
+C:\ativ1711\obj\Debug\net10.0\refint\ativ1711.dll
+C:\ativ1711\obj\Debug\net10.0\ativ1711.pdb
+C:\ativ1711\obj\Debug\net10.0\ativ1711.genruntimeconfig.cache
+C:\ativ1711\obj\Debug\net10.0\ref\ativ1711.dll
